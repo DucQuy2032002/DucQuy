@@ -10,6 +10,8 @@ export const About = () => {
       <p style={{ fontStyle: "italic" }}>Họ tên: Phạm Đức Quý</p>
       <p style={{ fontStyle: "italic" }}>MSSV: 46.01.104.149</p>
       <p style={{ fontStyle: "italic" }}>Ngày sinh: 20/3/2002</p>
+      <p style={{ fontStyle: "italic" }}>Email: pdquy2002@gmail.com</p>
+      <p style={{ fontStyle: "italic" }}>Nghề nghiệp: Sinh viên</p>
       <img src="/duc_quy.jpg" alt="Quý" width="300" />
     </div>
   );
